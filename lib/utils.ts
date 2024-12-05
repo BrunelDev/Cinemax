@@ -1,0 +1,1 @@
+export const categories: {category : string, image : string}[] = [{category :"Romance", image : require("@/assets/images/romance.png")}, {category : "Comédie", image : require("@/assets/images/comedie.png")}, {category : "Horreur", image : require("@/assets/images/horreur.png")}, {category :"Drame", image : require("@/assets/images/drame.png")}]
